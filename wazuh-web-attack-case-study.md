@@ -67,4 +67,18 @@ Mapped to MITRE ATT&CK:
 ## 📊 Outcome
 - Attack successfully detected and contained  
 - No confirmed compromise  
-- Improved detection capability and security posture  
+- Improved detection capability and security posture
+
+- ## 📸 Evidence
+
+### SIEM Alert
+![SIEM Alert](alert-wazuh.png)
+
+### WAF Log
+![WAF Log](waf-log.png)
+
+### VirusTotal Check
+![VirusTotal](virustotal.png)
+
+### AbuseIPDB Check
+![AbuseIPDB](abuseipdb.png)
