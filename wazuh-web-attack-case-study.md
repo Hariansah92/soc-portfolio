@@ -78,7 +78,7 @@ Mapped to MITRE ATT&CK:
 ![WAF Log](waf-log.png)
 
 ### VirusTotal Check
-![VirusTotal](virustotal.png)
+![VirusTotal](virustotal-check.png)
 
 ### AbuseIPDB Check
 ![AbuseIPDB](abuseipdb.png)
