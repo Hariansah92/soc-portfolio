@@ -85,3 +85,31 @@ Mapped to MITRE ATT&CK:
 - Attack successfully detected and blocked
 - No evidence of successful compromise
 - Improved detection visibility for web attacks
+
+- ### 📸 Evidence
+
+#### 1. WAF Detection Logs
+WAF logs showing multiple requests to WordPress directories and detection of malicious patterns.
+
+![WAF Logs](./images/waf-logs-backdoor-detection.png)
+
+---
+
+#### 2. Raw Attack Logs (c99.php Attempt)
+Detailed logs showing attacker attempting to access known web shell file `/c99.php`.
+
+![Raw Logs](./images/waf-raw-logs-c99-attempt.png)
+
+---
+
+#### 3. Threat Intelligence – VirusTotal
+IP analysis showing detection from security vendors indicating suspicious/malicious activity.
+
+![VirusTotal](./images/virustotal-ip-analysis.png)
+
+---
+
+#### 4. Threat Intelligence – AbuseIPDB
+IP reputation data showing multiple abuse reports and high confidence of malicious activity (58%).
+
+![AbuseIPDB](./images/abuseipdb-ip-reputation.png)
