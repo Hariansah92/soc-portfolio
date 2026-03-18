@@ -113,3 +113,9 @@ IP analysis showing detection from security vendors indicating suspicious/malici
 IP reputation data showing multiple abuse reports and high confidence of malicious activity (58%).
 
 ![AbuseIPDB](abuseipdb-ip-reputation.png)
+
+---
+
+### 🧾 Conclusion
+
+This case demonstrates the ability to detect, analyze, and respond to real-world web attack activities using SIEM, WAF, and threat intelligence correlation.
